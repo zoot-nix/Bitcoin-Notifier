@@ -1,0 +1,17 @@
+Requirements for the code to work
+
+1.Python 3.4+ and pip
+
+2. CoinMarketCap API key
+Create one here : https://pro.coinmarketcap.com/
+
+3.Telegram app, Telegram Bot and your Chat ID
+- Install Telegram and create an Account 
+- To create a bot follow the steps on : https://core.telegram.org/bots#6-botfather
+- After Creating the bot copy the Authorization Token, something like this > '110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw' this is your bot token
+- Now, to get your Chat ID search IDBot (@myidbot) or https://telegram.me/myidbot and type '/getid' this will be your ChatID
+        
+4.Requests module
+-pip install requests
+~                                                                                                                                      
+~                                 
